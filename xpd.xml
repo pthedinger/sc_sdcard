@@ -8,12 +8,14 @@
     <description>SD card</description>
     <docdir>app_sdcard_test/doc_quickstart</docdir>
     <docdir>module_sdcardSPI/doc</docdir>
-    <docdir>module_FatFs/doc</docdir>		
+    <docdir>module_FatFs/doc</docdir>
     <location>https://github.com/shanthinick/sc_sdcard.git</location>
     <name>sc_sdcard</name>
     <maintainer>xxx</maintainer>
+    <partnumber>XM-004511-DH</partnumber>
+    <subpartnumber>XM-004512-SM</subpartnumber>
     <vendor>XMOS</vendor>
-    <version_defines>1.0.3</version_defines>
+    <version_defines></version_defines>
     <xcore_repo>git://github.com/xcore/sc_sdcard.git</xcore_repo>
     <xpd_version>1.0</xpd_version>
 </xpd>
